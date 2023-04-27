@@ -1,0 +1,3 @@
+Example to run on Neo:
+
+verifyCalib.py -p cone_4.phantom -i PhantomImages_Corrected/correction.nhdr -c rsp_2015_12_09_09_37_16.cal -r allCentroidsRecovered.txt
